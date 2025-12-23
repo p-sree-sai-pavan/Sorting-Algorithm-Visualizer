@@ -9,7 +9,7 @@
 
 **An interactive web application to visualize sorting algorithms in real-time**
 
-[Features](#-features) • [Demo]([#-demo](https://p-sree-sai-pavan.github.io/Sorting-Algorithm-Visualizer/)) • [Setup](#-getting-started) • [Algorithms](#-algorithms) • [Contributing](#-contributing)
+[Features](#-features) • [Demo](https://p-sree-sai-pavan.github.io/Sorting-Algorithm-Visualizer/) • [Setup](#-getting-started) • [Algorithms](#-algorithms) • [Contributing](#-contributing)
 
 </div>
 
